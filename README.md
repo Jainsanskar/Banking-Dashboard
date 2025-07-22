@@ -24,8 +24,8 @@ This interactive Power BI dashboard presents a comprehensive analysis of demogra
 │
 ├── Dashboard.pbix            # Power BI Dashboard file
 ├── README.md                 # Project overview
-└── data/
-    └── bank_loan_data.xlsx   # Raw or cleaned data used for visuals
+├── Dashboard.pdf             # Power BI Dashboard pdf
+└── banking.csv               # Raw or cleaned data used for visuals
 ```
 
 ## 📈 Use Cases
